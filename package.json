@@ -1,0 +1,15 @@
+{
+  "name": "week-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start":"nodemon script.js"
+
+  },
+  "author": "Mario Mina",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
